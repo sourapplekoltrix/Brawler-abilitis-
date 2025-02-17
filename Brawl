@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brawl Stars Brawlers' Abilities & Tips</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Brawl Stars: Brawlers' Abilities & Tips</h1>
+        <nav>
+            <ul>
+                <li><a href="#brawlers">Brawlers</a></li>
+                <li><a href="#abilities">Abilities</a></li>
+                <li><a href="#tips">Tips</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="brawlers">
+        <h2>Brawlers Overview</h2>
+        <div class="brawler">
+            <h3>Shelly</h3>
+            <p>A balanced fighter known for her versatility.</p>
+            <img src="images/shelly.jpg" alt="Shelly">
+        </div>
+        <div class="brawler">
+            <h3>Colt</h3>
+            <p>A fast and powerful sharpshooter.</p>
+            <img src="images/colt.jpg" alt="Colt">
+        </div>
+        <!-- Add more Brawlers as needed -->
+    </section>
+
+    <section id="abilities">
+        <h2>Abilities</h2>
+        <div class="ability">
+            <h3>Shelly's Super: Super Shell</h3>
+            <p>Shelly shoots a huge blast of bullets that deal heavy damage in a cone shape.</p>
+            <img src="images/shelly-super.jpg" alt="Shelly's Super">
+        </div>
+        <div class="ability">
+            <h3>Colt's Super: Bullet Storm</h3>
+            <p>Colt shoots a flurry of bullets in multiple directions.</p>
+            <img src="images/colt-super.jpg" alt="Colt's Super">
+        </div>
+        <!-- Add more abilities as needed -->
+    </section>
+
+    <section id="tips">
+        <h2>Tips</h2>
+        <div class="tip">
+            <h3>Shelly Tips</h3>
+            <ul>
+                <li>Use your Super to clear multiple enemies at once.</li>
+                <li>Take advantage of Shelly's range in close combat.</li>
+            </ul>
+        </div>
+        <div class="tip">
+            <h3>Colt Tips</h3>
+            <ul>
+                <li>Aim your Super to hit enemies hiding behind cover.</li>
+                <li>Use Colt's mobility to stay at range and deal damage.</li>
+            </ul>
+        </div>
+        <!-- Add more tips as needed -->
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Brawl Stars Tips</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
